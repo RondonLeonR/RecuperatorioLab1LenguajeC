@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1525962525 source:d:\rondon leon rodolfo\rondonrodolfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Propietarios.h"
+	"Autos.h"
+
+1525958748 d:\rondon leon rodolfo\rondonrodolfo\propietarios.h
+
+1525962570 source:d:\rondon leon rodolfo\rondonrodolfo\propietarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Propietarios.h"
+
+1525962449 source:d:\rondon leon rodolfo\rondonrodolfo\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autos.h"
+
+1525961535 d:\rondon leon rodolfo\rondonrodolfo\autos.h
+	"Propietarios.h"
+
+1526537357 source:c:\users\user\desktop\paraprueba-master\rondonrodolfo\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Propietarios.h"
+	"Autos.h"
+
+1526533415 c:\users\user\desktop\paraprueba-master\rondonrodolfo\autos.h
+	"Propietarios.h"
+
+1526499309 c:\users\user\desktop\paraprueba-master\rondonrodolfo\propietarios.h
+
+1526537432 source:c:\users\user\desktop\paraprueba-master\rondonrodolfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Propietarios.h"
+	"Autos.h"
+	"SalidaAutos.h"
+
+1526537562 source:c:\users\user\desktop\paraprueba-master\rondonrodolfo\propietarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Propietarios.h"
+
+1526537357 c:\users\user\desktop\paraprueba-master\rondonrodolfo\salidaautos.h
+	"Propietarios.h"
+	"Autos.h"
+
+1526538190 source:c:\users\user\desktop\paraprueba-master\rondonrodolfo\salidaautos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Autos.h"
+	"Propietarios.h"
+	"SalidaAutos.h"
+
+1527112389 source:c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\autos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Propietarios.h"
+	"Autos.h"
+
+1526499309 c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\propietarios.h
+
+1526533415 c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\autos.h
+	"Propietarios.h"
+
+1527122396 source:c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Propietarios.h"
+	"Autos.h"
+	"SalidaAutos.h"
+
+1527122237 c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\salidaautos.h
+	"Propietarios.h"
+	"Autos.h"
+
+1526537562 source:c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\propietarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Propietarios.h"
+
+1527122246 source:c:\users\user\desktop\utn\paraprueba-master\rondonrodolfo\salidaautos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Autos.h"
+	"Propietarios.h"
+	"SalidaAutos.h"
+
